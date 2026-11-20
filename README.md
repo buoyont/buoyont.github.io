@@ -4,6 +4,11 @@
 
 - 站点：https://buoyont.github.io/
 
+## 联系方式
+
+- 小黑盒：[forsaken_OpticIndia](https://www.xiaoheihe.cn/app/user/profile/64356393)
+- 邮箱：imwxf@live.cn
+
 ## 说明
 
 本站由 Hexo 4.2.0 生成的静态文件组成，仓库里只有生成后的静态文件，没有 Hexo 源码。
